@@ -1,45 +1,55 @@
-# 🕷️ Whois @bitsofalber ?
+# 🕷️ Whois @bitsofalber?
 
-## 👋 ¡Hola , Welcome!
+## 👋 Hola y bienvenido
 
-### Mi nombre es **Alberto** y hace poco descubrí el fascinante mundo de la **ciberseguridad**. Desde entonces, se ha convertido en una verdadera obsesión y una fuente inagotable de curiosidad. Me apasiona entender qué sucede detrás de la tecnología y cómo podemos explorarla de manera ética y segura.
+Mi nombre es **Alberto**, estudiante de Administración de Sistemas Informáticos en Red (ASIR) y entusiasta de la **ciberseguridad**.
 
-### 💡 **Actualmente, me encuentro en fase de aprendizaje** y soy consciente de que solo conozco una mínima parte de todo lo que este mundo tiene para ofrecer. Por eso, he decidido documentar mi proceso y compartir mis conocimientos de la manera en que me habría gustado aprender.
+Desde que descubrí este campo, se ha convertido en una fuente constante de curiosidad y aprendizaje. Me apasiona comprender qué ocurre detrás de la tecnología y cómo analizarla de forma ética y segura.
 
-### 🚀 ¿Qué encontrarás aquí?
+Actualmente me encuentro en una fase activa de formación y desarrollo. Por ello, he decidido documentar mi proceso de aprendizaje y compartir los conocimientos que voy adquiriendo, explicados de la forma en que a mí me habría gustado aprenderlos.
 
-### 📌 **Guías detalladas** para iniciarte en ciberseguridad. 📌 **Tips y consejos** prácticos para mejorar tus habilidades. 📌 **WriteUps** de retos y laboratorios, explicados paso a paso.
+---
 
-#### Puedes encontrar más contenido en **YouTube, Instagram y LinkedIn**, donde comparto mis avances y descubrimientos bajo el nombre **@henkosec**. ¡Acompáñame en este viaje de aprendizaje! 🔥
+## 🚀 ¿Qué encontrarás aquí?
 
+📌 Guías prácticas para iniciarte en ciberseguridad  
+📌 Consejos y técnicas para mejorar tus habilidades  
+📌 Write-ups de laboratorios y retos explicados paso a paso  
+📌 Apuntes técnicos y recursos útiles  
 
+---
 
-***
+Puedes seguir mi progreso y contenido adicional en:
 
-### 👋 Hello and Welcome!
+- 🎥 YouTube → https://www.youtube.com/@bitsofalber  
+- 📸 Instagram → https://www.instagram.com/bitsofalber/  
+- 💼 LinkedIn → https://linkedin.com/in/ahidalgotech  
 
-### My name is **Alberto**, and I recently discovered the fascinating world of **cybersecurity**. Since then, it has become both an obsession and an endless source of curiosity. I’m passionate about understanding what happens behind technology and how we can explore it ethically and securely.
+---
 
-### 💡 **I’m currently in the learning phase**, and I know that I only understand a tiny fraction of everything this field has to offer. That’s why I’ve decided to document my journey and share my knowledge in the way I would have loved to learn.
+## 👋 Hello and welcome
 
-### 🚀 What will you find here?
+My name is **Alberto**, an ASIR (Network Systems Administration) student and cybersecurity enthusiast.
 
-### 📌 **Detailed guides** to help you get started in cybersecurity. 📌 **Tips and tricks** to improve your skills. 📌 **Write-ups** of challenges and labs, explained step by step.
+Since discovering this field, it has become a constant source of curiosity and growth. I’m passionate about understanding what happens behind technology and how it can be analyzed ethically and securely.
 
-#### You can find more of my content on **YouTube, Instagram, and LinkedIn**, where I share my progress and discoveries under the name **@henkosec**. Join me on this learning journey! 🔥
+I am currently in an active learning phase. For this reason, I document my journey and share knowledge in the way I would have liked to learn it.
 
+---
 
+## 🚀 What will you find here?
 
-***
+📌 Practical guides to get started in cybersecurity  
+📌 Tips and techniques to improve your skills  
+📌 Step-by-step write-ups of labs and challenges  
+📌 Technical notes and useful resources  
 
+Follow my journey and additional content:
 
+- 🎥 YouTube → https://www.youtube.com/@bitsofalber  
+- 📸 Instagram → https://www.instagram.com/bitsofalber/  
+- 💼 LinkedIn → https://linkedin.com/in/ahidalgotech  
 
-### _Actualmente estoy en fase de aprendizaje e intento divulgar todo lo que voy aprendiendo día a día para todas aquellas personas a las que les pueda ser util._
+---
 
-{% embed url="https://www.youtube.com/@henkosec" %}
-
-{% embed url="https://www.instagram.com/henkosec/" %}
-
-<figure><img src=".gitbook/assets/logo simple.jpg" alt="" width="188"><figcaption><p>@HenkoSec</p></figcaption></figure>
-
-<figure><img src=".gitbook/assets/DALL·E 2025-02-17 10.43.49 - A hacker seen from behind, wearing a red hoodie with the hood up. The back of the hoodie has the name &#x27;HenkoSec&#x27; printed on it. The hacker is sitting .webp" alt="" width="563"><figcaption></figcaption></figure>
+> Documenting what I learn today to build the knowledge of tomorrow.
