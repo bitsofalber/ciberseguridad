@@ -110,10 +110,8 @@ En más de una ocasión perdí tiempo en caminos erróneos por pensar que era m�
 
 * [El Pingüino de Mario](https://www.youtube.com/@ElPinguinoDeMario)
 * [ZunderRub](https://www.youtube.com/@zunderrub)
-* [Hackavis](https://www.youtube.com/@Hackavis)
 * [Xerosec](https://www.youtube.com/@xerosec)
 * [S4vitar](https://www.youtube.com/@s4vitar)
-* [RinkuTech](https://www.youtube.com/@rinkutech_)
 
 #### 🔹 Plataformas prácticas:
 
@@ -130,9 +128,8 @@ En más de una ocasión perdí tiempo en caminos erróneos por pensar que era m�
 
 ## 🔹 <mark style="color:green;">Creación de contenido propio:</mark>
 
-* [YouTube Henkosec](https://www.youtube.com/@henkosec)
-* [GitBook Henkosec Wiki](https://henkosec.gitbook.io/henkosec/ejptv2wiki)
-* [Instagram Henkosec](https://www.instagram.com/henkosec/)
+* [YouTube bitsofalber](https://www.youtube.com/@henkosec)
+* [Instagram bitsofalber](https://www.instagram.com/bitsofalber/)
 
 ***
 
