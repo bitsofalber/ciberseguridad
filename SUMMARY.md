@@ -1,0 +1,46 @@
+# Table of contents
+
+* [🕷️ Whois @bitsofalber ?](README.md)
+
+## 📚 Diario cyber !
+
+* [🗃️ ¿Qué hay por aquí?](diario-cyber/que-hay-por-aqui.md)
+
+***
+
+* [🦂 WriteUps !](writeups/README.md)
+  * [🐳 WriteUps | Dockerlabs](writeups/writeups-or-dockerlabs/README.md)
+    * [💑 WriteUp | Buscalove](writeups/writeups-or-dockerlabs/writeup-or-buscalove.md)
+  * [☢️ WriteUps | TheHackersLabs](writeups/writeups-or-thehackerslabs/README.md)
+    * [👾 FindMe - TheHackersLabs](writeups/writeups-or-thehackerslabs/findme-thehackerslabs.md)
+* [💯 eJPTv2Wiki](ejptv2wiki/README.md)
+  * [🔰 Mi experiencia con la eJPTv2](ejptv2wiki/mi-experiencia-con-la-ejptv2.md)
+  * [🔍 Descubrimiento de HOSTS!](ejptv2wiki/descubrimiento-de-hosts.md)
+  * [🔍 Puerto 21 - FTP](ejptv2wiki/puerto-21-ftp.md)
+  * [🔍 Puerto 22 - SSH](ejptv2wiki/puerto-22-ssh.md)
+  * [🔍 Puerto 25 - SMTP](ejptv2wiki/puerto-25-smtp.md)
+  * [🔍 Puerto 80/443 - HTTP/HTTPS](ejptv2wiki/puerto-80-443-http-https.md)
+  * [🔍 Puertos - 139,445 SMB](ejptv2wiki/puertos-139-445-smb.md)
+  * [🔍 Puerto 1521 - Oracle Database](ejptv2wiki/puerto-1521-oracle-database.md)
+  * [🔍 Puertp - 3306 - MySQL & SqlMap](ejptv2wiki/puertp-3306-mysql-and-sqlmap.md)
+  * [🔍 3389 - RDP](ejptv2wiki/3389-rdp.md)
+  * [📂 WordPress - CMS](ejptv2wiki/wordpress-cms.md)
+  * [📂 Drupal - CMS](ejptv2wiki/drupal-cms.md)
+  * [📂 Joomla - CMS](ejptv2wiki/joomla-cms.md)
+  * [🛠️ Gobuster - Fuzzing Web](ejptv2wiki/gobuster-fuzzing-web.md)
+  * [🛠️ Ffuf - Fuzzing Web](ejptv2wiki/ffuf-fuzzing-web.md)
+  * [🛠️ Dirbuster - Fuzzing Web](ejptv2wiki/dirbuster-fuzzing-web.md)
+  * [🛠️ John the Ripper - HASH](ejptv2wiki/john-the-ripper-hash.md)
+  * [🛠️ Nikto - Escaner Web](ejptv2wiki/nikto-escaner-web.md)
+  * [🌐 Tomcat - Tecnology](ejptv2wiki/tomcat-tecnology.md)
+  * [🌐 Jenkins - Tecnology](ejptv2wiki/jenkins-tecnology.md)
+  * [🌐 Comandos de Red](ejptv2wiki/comandos-de-red.md)
+  * [🌐 WinRM](ejptv2wiki/winrm.md)
+  * [🌐 Microsoft IIS - Webshell - windows](ejptv2wiki/microsoft-iis-webshell-windows.md)
+  * [📍 Servidor Web Local en Python](ejptv2wiki/servidor-web-local-en-python.md)
+  * [📍 Windows - Post-Explotación](ejptv2wiki/windows-post-explotacion.md)
+  * [⚙️ HotFixed](ejptv2wiki/hotfixed.md)
+  * [⚙️ TTY - Spawning](ejptv2wiki/tty-spawning.md)
+  * [📡 Pivoting con Metasploit utilizando una máquina Windows](ejptv2wiki/pivoting-con-metasploit-utilizando-una-maquina-windows.md)
+  * [📈 Escala de privilegios en Linux](ejptv2wiki/escala-de-privilegios-en-linux.md)
+  * [📈 Escalada de privilegios en Windows](ejptv2wiki/escalada-de-privilegios-en-windows.md)
