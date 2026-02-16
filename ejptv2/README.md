@@ -19,3 +19,19 @@
 📚 **Este blog no es solo teoría, es práctica y análisis real de entornos de pentesting.** Prepárate para convertirte en un verdadero profesional de la ciberseguridad.
 
 <figure><img src="../.gitbook/assets/DALL·E 2025-02-17 10.43.49 - A hacker seen from behind, wearing a red hoodie with the hood up. The back of the hoodie has the name &#x27;HenkoSec&#x27; printed on it. The hacker is sitting .webp" alt="" width="563"><figcaption></figcaption></figure>
+
+
+# eJPTv2 Notes
+
+Documentación de servicios y conceptos importantes para la certificación eJPTv2.
+
+## Contenido
+
+- FTP
+- SSH
+- SMTP
+- HTTP/HTTPS
+- SMB
+- MySQL
+- Oracle
+- RDP
