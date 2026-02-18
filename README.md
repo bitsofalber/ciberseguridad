@@ -1,55 +1,39 @@
-# 🕷️ Whois @bitsofalber?
+# 🛡️ Ciberseguridad & Pentesting Lab
 
-## 👋 Hola y bienvenido
-
-Mi nombre es **Alberto**, estudiante de Administración de Sistemas Informáticos en Red (ASIR) y entusiasta de la **ciberseguridad**.
-
-Desde que descubrí este campo, se ha convertido en una fuente constante de curiosidad y aprendizaje. Me apasiona comprender qué ocurre detrás de la tecnología y cómo analizarla de forma ética y segura.
-
-Actualmente me encuentro en una fase activa de formación y desarrollo. Por ello, he decidido documentar mi proceso de aprendizaje y compartir los conocimientos que voy adquiriendo, explicados de la forma en que a mí me habría gustado aprenderlos.
+Este módulo está dedicado a la documentación de técnicas de auditoría, explotación y post-explotación. Aquí recopilo metodologías, herramientas y writeups de máquinas de entrenamiento.
 
 ---
 
-## 🚀 ¿Qué encontrarás aquí?
+## 📂 Fases del Pentesting
 
-📌 Guías prácticas para iniciarte en ciberseguridad  
-📌 Consejos y técnicas para mejorar tus habilidades  
-📌 Write-ups de laboratorios y retos explicados paso a paso  
-📌 Apuntes técnicos y recursos útiles  
+Explora los laboratorios organizados por fases y herramientas:
+
+| Fase / Categoría | Descripción | Acceso Directo |
+| :--- | :--- | :--- |
+| 🔍 **Enumeración** | Descubrimiento de hosts, escaneo de puertos y fuzzing web. | [Ver contenido](./enumeration/) |
+| 🚀 **Explotación Web** | Ataques a CMS (WordPress, Drupal) y servidores. | [Ver contenido](./web/) |
+| 🔑 **PrivEsc** | Escalada de privilegios en sistemas Linux y Windows. | [Ver contenido](./privilege-escalation/) |
+| 🚩 **Post-Exploitation** | Pivoting, persistencia y tratamiento de TTY. | [Ver contenido](./post-exploitation/) |
+| 🛠️ **Tools** | Guías de herramientas como John the Ripper. | [Ver contenido](./tools/) |
+| 📝 **Writeups** | Resoluciones de DockerLabs y The Hackers Labs. | [Ver contenido](./writeups/) |
+| 🎓 **eJPTv2** | Notas específicas de preparación para la certificación. | [Ver contenido](./ejptv2/) |
 
 ---
 
+## 🛠️ Toolkit Principal
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-83B81A?style=for-the-badge&logo=nmap&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-FF4400?style=for-the-badge)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=portswigger&logoColor=white)
+
+---
+
+## 📽️ Comunidad y Contenido
 Puedes seguir mi progreso y contenido adicional en:
 
-- 🎥 YouTube → https://www.youtube.com/@bitsofalber  
-- 📸 Instagram → https://www.instagram.com/bitsofalber/  
-- 💼 LinkedIn → https://linkedin.com/in/ahidalgotech  
+* 🎥 **YouTube** → [bitsofalber](https://www.youtube.com/@bitsofalber)
+* 📸 **Instagram** → [@bitsofalber](https://www.instagram.com/bitsofalber/)
+* 💼 **LinkedIn** → [ahidalgotech](https://linkedin.com/in/ahidalgotech)
 
 ---
-
-## 👋 Hello and welcome
-
-My name is **Alberto**, an ASIR (Network Systems Administration) student and cybersecurity enthusiast.
-
-Since discovering this field, it has become a constant source of curiosity and growth. I’m passionate about understanding what happens behind technology and how it can be analyzed ethically and securely.
-
-I am currently in an active learning phase. For this reason, I document my journey and share knowledge in the way I would have liked to learn it.
-
----
-
-## 🚀 What will you find here?
-
-📌 Practical guides to get started in cybersecurity  
-📌 Tips and techniques to improve your skills  
-📌 Step-by-step write-ups of labs and challenges  
-📌 Technical notes and useful resources  
-
-Follow my journey and additional content:
-
-- 🎥 YouTube → https://www.youtube.com/@bitsofalber  
-- 📸 Instagram → https://www.instagram.com/bitsofalber/  
-- 💼 LinkedIn → https://linkedin.com/in/ahidalgotech  
-
----
-
-> Documenting what I learn today to build the knowledge of tomorrow.
+[⬅️ Volver al menú principal](../README.md)
