@@ -1,37 +1,48 @@
-# 💯 eJPTv2Wiki
+# 🎓 Certificación eJPTv2 (Junior Penetration Tester)
 
-<figure><img src="../.gitbook/assets/1_hf2Yba0ZGG15JHpMA-lbZw (1).png" alt=""><figcaption><p>Certificación eJPTv2</p></figcaption></figure>
+> **Bitsofalber Lab Notes:** Guía técnica y repositorio de conocimientos para la preparación del examen de eLearnSecurity. Aquí se documentan desde servicios básicos hasta metodologías de explotación real.
 
+---
 
+## 🛡️ Sobre la Certificación
+La certificación **eJPTv2** es una de las más valoradas para perfiles junior. Se centra en la práctica real de pentesting, abarcando desde el reconocimiento hasta la explotación y el reporte.
 
-## 🛡️ **eJPTv2: Tu Guía Completa hacia la Certificación en Pentesting**
+### 📌 ¿Qué incluye esta documentación?
+* **Análisis de Servicios:** Desglose técnico de puertos críticos (FTP, SSH, SMB, etc.).
+* **Tooling 🔧:** Guías rápidas de `Nmap`, `Metasploit`, `CrackMapExec` y más.
+* **Metodología Offsec:** Estrategias de reconocimiento y explotación de vectores comunes.
+* **Checklist de Examen 🎯:** Tips para optimizar el tiempo durante la prueba práctica.
 
-🔍 **¿Quieres dar tu primer paso en el mundo del pentesting?** En este blog, exploraremos a fondo la certificación **eLearnSecurity Junior Penetration Tester (eJPTv2)**, diseñada para quienes desean adquirir conocimientos sólidos en ciberseguridad ofensiva.
+---
 
-### 📌 **¿Qué encontrarás aquí?**
+## 🔬 Laboratorio de Servicios y Puertos
+Accede a las notas técnicas detalladas por cada protocolo:
 
-✅ **Guía detallada sobre el eJPTv2**: Explicamos en qué consiste la certificación, su temario y cómo prepararte eficientemente.\
-✅ **Herramientas esenciales** 🔧: Análisis de las mejores herramientas para pentesting como: **Nmap,**  **Metasploit, Gobuster, crackmapexec, johntheripper, etc..!**\
-✅ **Exploración de puertos y servicios** ⚡: Descripción de los puertos más utilizados en redes y cómo analizarlos con precisión.\
-✅ **Máquinas recomendadas** 🏴‍☠️: Aprende cómo resolver desafíos en entornos de laboratorio.\
-✅ **Tips y estrategias para aprobar** 🎯: Consejos clave para optimizar tu tiempo y recursos en el examen.
+| Servicio | Puerto | Documentación |
+| :--- | :---: | :--- |
+| **FTP** | 21 | [Notas de Explotación](./puerto-21-ftp.md) |
+| **SSH** | 22 | [Acceso y Brute-Force](./puerto-22-ssh.md) |
+| **SMTP** | 25 | [Enumeración de Usuarios](./puerto-25-smtp.md) |
+| **HTTP/HTTPS** | 80/443 | [Auditoría Web](./puerto-80-443-http-https.md) |
+| **SMB** | 139/445 | [Recursos Compartidos](./puertos-139-445-smb.md) |
+| **MySQL** | 3306 | [Bases de Datos](./puerto-3306-mysql.md) |
+| **Oracle DB** | 1521 | [Servicios Oracle](./puerto-1521-oracle-database.md) |
+| **RDP** | 3389 | [Control Remoto](./3389-rdp.md) |
 
-📚 **Este blog no es solo teoría, es práctica y análisis real de entornos de pentesting.** Prepárate para convertirte en un verdadero profesional de la ciberseguridad.
+---
 
-<figure><img src="../.gitbook/assets/DALL·E 2025-02-17 10.43.49 - A hacker seen from behind, wearing a red hoodie with the hood up. The back of the hoodie has the name &#x27;HenkoSec&#x27; printed on it. The hacker is sitting .webp" alt="" width="563"><figcaption></figcaption></figure>
+## 🚀 Recursos Adicionales
+* **Mi Experiencia:** [Relato del examen y consejos](./mi-experiencia-con-la-ejptv2.md)
+* **Máquinas:** Prácticas recomendadas en TryHackMe y HTB.
 
+---
 
-# eJPTv2 Notes
+## 📽️ Comunidad y Contenido
+Sigue mi progreso y contenido adicional en:
 
-Documentación de servicios y conceptos importantes para la certificación eJPTv2.
+* 🎥 **YouTube** → [bitsofalber](https://www.youtube.com/@bitsofalber)
+* 📸 **Instagram** → [@bitsofalber](https://www.instagram.com/bitsofalber/)
+* 💼 **LinkedIn** → [ahidalgotech](https://linkedin.com/in/ahidalgotech)
 
-## Contenido
-
-- FTP
-- SSH
-- SMTP
-- HTTP/HTTPS
-- SMB
-- MySQL
-- Oracle
-- RDP
+---
+[⬅️ Volver a Ciberseguridad](../README.md)
